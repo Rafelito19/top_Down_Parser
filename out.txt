@@ -1,0 +1,12 @@
+0 <assignment>
+ 1 a
+ 1 =
+ 1 <E>
+  2 <term>
+   3 <primary>
+    4 <E>
+     5 <term>
+      6 <primary> 10
+     5 +
+     5 <term>
+      6 <primary> 10
